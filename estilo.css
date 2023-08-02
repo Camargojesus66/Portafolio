@@ -1,84 +1,84 @@
 }
 
-/* Portfolio */
-#portfolio {
+/* Portafolio */
+#portafolio {
 	padding: 80px 0;
 	text-align: center;
 }
 
-#portfolio p {
+#portafolio p {
 	width: 500px;
 	margin: 0 auto;
 	padding-top: 10px;
 	padding-bottom: 50px;
 }
 
-.portfolio-row {
+.portafolio-row {
 	display: flex;
 }
 
-.portfolio-row img {
+.portafolio-row img {
 	width: 100%;
 	padding: 10px;
 	border-radius: 20px;
 }
 
-/* About Me */
-#about {
+/* Sobre Mi */
+#Sobre{
 	padding: 80px 0;
 	text-align: center;
 }
 
-#about h2 {
+#Sobre h2 {
 	padding-bottom: 50px;
 }
 
-#about p {
+#Sobre p {
 	padding-bottom: 20px;
 }
 
-/* Contact */
-#contact {
+/* Contacto */
+#contacto {
 	padding: 80px 0;
 }
 
-#contact h2 {
+#contacto h2 {
 	text-align: center;
 }
 
-#contact p {
+#contacto p {
 	width: 500px;
 	margin: 0 auto;
 	padding-top: 10px;
 	padding-bottom: 50px;
 }
 
-.contact-row {
+.contacto-row {
 	display: flex;
 	padding: 20px;
 }
 
-.contact-row-img {
+.contacto-row-img {
 	width: 50%;
 }
 
-.contact-row-img img {
+.contacto-row-img img {
 	padding: 120px;
 }
 
-.contact-row-form {
+.contacto-row-form {
 	width: 50%;
 	border: 1px solid #c4c4c4;
 	border-radius: 10px;
 	padding: 70px;
 }
 
-.contact-row-form h4 {
+.contacto-row-form h4 {
 	padding-bottom: 40px;
 	text-align: center;
 }
 
-.contact-row-form button {
+.contacto-row-form button {
 	width: 100%;
 }
 
